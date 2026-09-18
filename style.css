@@ -105,13 +105,13 @@ blockquote {
 }
 
 .tabela-cardapio thead {
-    background-color: #bc0e;
+    background-color: #DFDF22;
     color: #FFFFFF;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #DFDF22;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
