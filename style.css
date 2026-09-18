@@ -67,7 +67,7 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #DFDF22;
+    border: 1px solid #FDFD22;
     border-radius: 8px;
     padding: 12px;
     background-color: #FFFFFF;
@@ -105,7 +105,7 @@ blockquote {
 }
 
 .tabela-cardapio thead {
-    background-color: #DFDF22;
+    background-color: #FDFD22;
     color: #FFFFFF;
 }
 
